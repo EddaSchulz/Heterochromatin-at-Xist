@@ -1,0 +1,4 @@
+Chr	Start	Ref	Reads_R1	Nucleotides_R1	Qualities_R1	Reads_R2	Nucleotides_R2	Qualities_R2	Reads_R3	Nucleotides_R3	Qualities_R3
+chrX	103480087	N	0	*	*	0	*	*	0	*	*
+chrX	103481013	N	1	c	H	1	G	G	0	*	*
+chrX	103482240	N	1	a	D	2	aa	DD	0	*	*

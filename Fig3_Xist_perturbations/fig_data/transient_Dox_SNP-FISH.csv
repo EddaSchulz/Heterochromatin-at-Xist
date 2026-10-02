@@ -1,0 +1,13 @@
+﻿Day;Condition;Replicate;cy5;white;Biallelic;Total;;Xist positive;;Quality
+96h;"""-Dox""";R2;25;30;0;100;;55%;;good
+96h;"""-Dox""";R1 - repeat;21;33;0;100;;54%;;good
+96h;"""-Dox""";R3 - repeat;24;27;1;100;;52%;;good
+96h;"""+Dox""";R2;21;8;0;103;;28%;;good
+96h;"""+Dox""";R1 - repeat;13;7;0;100;;20%;;good
+96h;"""+Dox""";R3 - repeat;22;5;1;100;;28%;;good
+24h;"""-Dox""";R1;11;22;50;100;;83%;;good
+24h;"""-Dox""";R2;13;35;36;107;;79%;;good
+24h;"""-Dox""";R3;17;20;39;101;;75%;;good
+24h;"""+Dox""";R1;4;45;26;97;;77%;;good
+24h;"""+Dox""";R2;2;62;21;103;;83%;;good
+24h;"""+Dox""";R3;9;46;30;101;;84%;;good

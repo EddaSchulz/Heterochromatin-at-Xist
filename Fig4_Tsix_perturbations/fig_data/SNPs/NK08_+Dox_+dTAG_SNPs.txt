@@ -1,0 +1,9 @@
+Chr	Start	Ref	Reads_R1	Nucleotides_R1	Qualities_R1	Reads_R2	Nucleotides_R2	Qualities_R2	Reads_R3	Nucleotides_R3	Qualities_R3
+chrX	103480087	N	3	aAA	CED	13	aaaaAAAAAaA^@a^Ka	BDDDiFBEDDFBh	7	a$AaTaAA	DC;5?DE
+chrX	103480094	N	4	gGGg	CIGH	14	ggggGGGGGgGggG	GHHGomiHHGGGnH	5	gGgGG	D??HF
+chrX	103480585	N	0	*	*	2	ga	?B	2	aA	DD
+chrX	103480679	N	0	*	*	0	*	*	1	t	D
+chrX	103480709	N	0	*	*	0	*	*	1	g	F
+chrX	103481013	N	3	cCC	HGH	6	CCCCcC	IHHEoF	3	CcC	DBH
+chrX	103482240	N	5	ggggA	AG@AC	11	GggggAAGgGG	DHHHGEDHEE4	4	GGgG	HGFC
+chrX	103482895	N	0	*	*	1	t	g	0	*	*
